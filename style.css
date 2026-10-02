@@ -204,7 +204,7 @@ h1 em { font-style: italic; font-weight: 340; color: var(--accent); }
   background: repeating-linear-gradient(135deg, var(--accent) 0 10px, var(--surface) 10px 14px, var(--accent-2) 14px 24px, var(--surface) 24px 28px);
 }
 .marquee { overflow: hidden; background: var(--bg-alt); }
-.marquee-track { display: flex; width: max-content; animation: marquee 48s linear infinite; }
+.marquee-track { display: flex; width: max-content; animation: marquee 88s linear infinite; }
 .marquee:hover .marquee-track { animation-play-state: paused; }
 .marquee ul { display: flex; flex-shrink: 0; }
 .marquee li {
